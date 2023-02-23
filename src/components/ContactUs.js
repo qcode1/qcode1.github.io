@@ -14,9 +14,11 @@ export default class ContactUs extends Component {
           <div className="row">
             <aside className="eigth columns footer-widgets">
               <div className="widget">
-                <h4>Linked In :
-                  {resumeData.linkedinId}
+                <h4>Email :
+                  <a target="_blank" rel="noopener noreferrer" href="mailto:{resumeData.linkedinId}"> {resumeData.email}</a>
                 </h4>
+
+                <h4>Linked In : {resumeData.linkedinId}</h4>
               </div>
             </aside>
           </div>
