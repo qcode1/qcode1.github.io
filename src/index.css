@@ -13,3 +13,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.mfp-content {
+  text-align: center !important;
+}
+
+.mfp-content img {
+  max-width: 70% !important;
+  text-align: center !important;
+}

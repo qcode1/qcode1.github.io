@@ -83,24 +83,34 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"Missions Website",
+        "name":"Website for Ghana Missions",
+        "description":"Website for Ghanaian missions worldwide",
         "imgurl":"images/portfolio/ggm_home.png"
       },
       {
-        "name":"project2",
-        "description":"Evoq Memorial Foundation",
+        "name":"Online Consular Management System",
+        "description":"Web portal to collect and manage consular application",
+        "imgurl":"images/portfolio/OCMS.jpg"
+      },
+      {
+        "name":"Evoq Memorial Foundation",
+        "description":"Website for EVOQ Memorial Foundation",
         "imgurl":"images/portfolio/evoq_home.jpg"
       },
       {
-        "name":"project3",
-        "description":"JacKuw Company Ltd.",  
+        "name":"JacKuw Company Ltd.",
+        "description":"Website for JacKuw Company Ltd., a construction company in Accra",  
         "imgurl":"images/portfolio/jackuw_home.jpg"
       },
       {
-        "name":"project4",
-        "description":"Tools",
+        "name":"Tools",
+        "description":"Administrative portal to support backoffice efforts at resolving customer issues",
         "imgurl":"images/portfolio/tools_home.png"
+      },
+      {
+        "name":"Tools v2",
+        "description":"Administrative portal (v2) to support backoffice efforts at resolving customer issues",
+        "imgurl":"images/portfolio/tools_home_2.png"
       }
     ],
     "testimonials":[
