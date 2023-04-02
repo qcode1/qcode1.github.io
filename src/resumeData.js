@@ -89,7 +89,7 @@ let resumeData = {
       },
       {
         "name":"Online Consular Management System",
-        "description":"Web portal to collect and manage consular application",
+        "description":"Web portal to collect and manage consular applications",
         "imgurl":"images/portfolio/OCMS.jpg"
       },
       {
@@ -111,6 +111,16 @@ let resumeData = {
         "name":"Tools v2",
         "description":"Administrative portal (v2) to support backoffice efforts at resolving customer issues",
         "imgurl":"images/portfolio/tools_home_2.png"
+      },
+      {
+        "name":"Quizzical",
+        "description":"A fun interactive quiz app for friends and family",
+        "imgurl":"images/portfolio/quizzical.png"
+      },
+      {
+        "name":"Travel Journal",
+        "description":"A single page travel journal",
+        "imgurl":"images/portfolio/travel_journal.png"
       }
     ],
     "testimonials":[
