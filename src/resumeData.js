@@ -38,7 +38,7 @@ let resumeData = {
       },
       {
         "UniversityName":"Ashesi University College",
-        "specialization":"BSC. Computer SCience",
+        "specialization":"BSC. Computer Science",
         "MonthOfPassing":"Dec",
         "YearOfPassing":"2018",
         "Achievements":""
