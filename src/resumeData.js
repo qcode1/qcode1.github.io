@@ -47,7 +47,7 @@ let resumeData = {
     "work":[
       {
         "CompanyName":"INNOBIZ ICT Solutions Limited",
-        "specialization":"Software Developer",
+        "specialization":"Software Engineer",
         "MonthOfLeaving":"Current",
         "YearOfLeaving":"",
         "Achievements":"I developed system design, configuration templates and application process logic system for award of Phase 2 of Digitized Visa Program by the Ministry of Foreign Affairs and Regional Integration. In addition, I successfully designed and developed a custom WordPress website theme used by more than 30 Ghanaian missions to boost their web presence and accelerate access to Government of Ghana information services. Finally, I redeveloped an existing adminstrative tool in ReactJS for retreiving dormant applications that are automatically archived over a period of time."
