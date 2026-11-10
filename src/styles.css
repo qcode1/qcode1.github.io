@@ -1734,3 +1734,35 @@ body {
     aspect-ratio: 21 / 9;
   }
 }
+
+/* iOS/Android browsers draw page content under their translucent bottom
+   toolbars, but a fixed element stops at the toolbar's edge. A fixed bottom
+   frame edge would leave a black band with content showing beneath it, so on
+   touch screens and small viewports the frame has no bottom edge. */
+@media (hover: none), (pointer: coarse), (max-width: 900px) {
+  .frame {
+    bottom: -50vh;
+  }
+
+  body {
+    padding-bottom: 0;
+  }
+}
+
+/* Phones in landscape: reclaim vertical space from the nav. */
+@media (orientation: landscape) and (max-height: 500px) {
+  :root {
+    --nav-h: 56px;
+  }
+
+  .nav__logo {
+    width: 28px;
+    height: 28px;
+    font-size: 15px;
+  }
+
+  .hero__content {
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+}
